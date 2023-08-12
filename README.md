@@ -1,8 +1,8 @@
-# Twilio Flex / SendGrid Email Integration Example
+# 📧 Connie Email Server + Email As A Task Plugin 
 
 <<TODO>>
 
-## Setting up SendGrid
+## Configure API Mail Service (SendGrid)
 
 * You'll need to [authenticate your domain](https://sendgrid.com/docs/ui/account-and-settings/how-to-set-up-domain-authentication/)
 * Then point your MX record to `mx.sendgrid.net`

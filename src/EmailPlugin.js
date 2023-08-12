@@ -1,5 +1,5 @@
 import React from 'react';
-import { FlexPlugin } from 'flex-plugin';
+import { FlexPlugin } from '@twilio/flex-plugin';
 import { TaskHelper } from '@twilio/flex-ui';
 
 import MarkdownMessageBubble from './components/MarkdownMessageBubble/MarkdownMessageBubble';
