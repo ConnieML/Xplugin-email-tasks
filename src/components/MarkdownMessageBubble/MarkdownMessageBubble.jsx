@@ -1,7 +1,9 @@
 import React from 'react';
 import ReactMarkdown from 'react-markdown';
 import MarkdownMessageBubbleStyles from './MarkdownMessageBubble.Styles'
-import { Utils, withTheme } from '@twilio/flex-ui';
+//import { Utils, withTheme } from '@twilio/flex-ui';
+import { Utils } from '@twilio/flex-ui-core';
+import { withTheme } from '@twilio/flex-ui';
 
 const MAX_HEIGHT = '175';
 
